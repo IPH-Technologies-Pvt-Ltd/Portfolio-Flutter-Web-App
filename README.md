@@ -18,8 +18,9 @@ Today we will show you how you can create your developer portfolio website and a
 - flutter run
 
 ### Responsive and Animated Portfolio Website & App Final UI
-
-
-![mob](https://user-images.githubusercontent.com/124572978/218433619-19961879-b179-4680-a559-5f8d10fb3b2d.jpg)
-![tab](https://user-images.githubusercontent.com/124572978/218433646-ec699a58-d894-4ded-adab-9bc7f9ed41d6.jpg)
-![web](https://user-images.githubusercontent.com/124572978/218433658-df291a36-5f28-439f-9538-eefe71dc4407.jpg)
+<img src="https://user-images.githubusercontent.com/124572978/219291397-b78c58aa-1124-437c-a70e-27416e313174.gif"
+  width="200"  height="500" /><br>
+<img src="https://user-images.githubusercontent.com/124572978/219294963-da4b8a2b-dff2-4ea5-8abc-bbfc3c28ec07.gif"
+  width="700"  height="300" />
+ <img src="https://user-images.githubusercontent.com/124572978/219297550-57064a43-b93a-4e4b-bff1-cef1b00f02d8.gif"
+  width="700"  height="300" />
